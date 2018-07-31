@@ -1,3 +1,4 @@
-Hello! My name is Pavel!
-I'm from Kharkov.
-I'm java developer.
+// Use forEach to console.log contents.
+arr.forEach(function(item) {
+console.log(item);
+});
